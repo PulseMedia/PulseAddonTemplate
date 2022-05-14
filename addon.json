@@ -1,0 +1,20 @@
+{
+  "id": "new.pulse.addon",
+  "version": "1.0.0",
+  "type": "INSERT_TYPE",
+  "meta": {
+    "name": "New Addon",
+    "description": "This is my new addon"
+  },
+  "dependencies": {
+
+  },
+  "settings": {
+    "categories": {
+      
+    },
+    "entries": {
+
+    }
+  }
+}
